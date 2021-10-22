@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Digimind</string>
+    <string name="title_home">My Board</string>
+    <string name="title_dashboard">New Reminder</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="whatdoyou">What do you want to remember to do?</string>
+    <string name="whendoyou">When do you want to do it?</string>
+
+</resources>
